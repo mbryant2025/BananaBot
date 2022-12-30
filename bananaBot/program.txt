@@ -1,7 +1,0 @@
--User enters tiles
--Program returns godly starting options
--User inputs new letters
--Program returns simplest place to put them
--If no simple options, program suggests simplest recaftoring to include all tiles
--Repeat to user entering new letters
-

@@ -1,0 +1,7 @@
+-User enters tiles
+-Program returns godly words that can be made (ideally linked)
+-User can enter new tiles and have the results recalculated
+
+Calculation:
+recursively construct word and then find word with remaining letters
+
